@@ -109,7 +109,7 @@
 Этот проект распространяется под лицензией MIT — см. файл LICENSE для дополнительной информации.
 
 ## <a id="title1">Инструкция по использованию</a>
-**Инструкция по установке:**
+**Инструкция по установке:** \
 Клонируйте репозиторий: git clone https://github.com/Fastcat-hub/Hackathon_TGUDS_Team-3 \
 Перейдите в директорию проекта: Hackathon_TGUDS_Team-3 \
 Открыть Hakaton_Kom_3.ipynb в Jupyter Notebook или Google Collab \
