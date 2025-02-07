@@ -29,7 +29,8 @@
 - **NO2, SO2, CO, O3:** Концентрация газообразных загрязнителей.
 - **AQI:** Индекс качества воздуха, рассчитанный на основе вышеупомянутых параметров.
 - **City:** Название города.
-- **Date:** Дата измерения. \
+- **Date:** Дата измерения. 
+
 **Источник данных:** \
   [Ссылка на модель](https://scikit-learn.org/0.16/modules/generated/sklearn.ensemble.RandomForestRegressor.html). \
   [Ссылка на dataset](https://www.kaggle.com/datasets/hirenvora/city-daycsv).
