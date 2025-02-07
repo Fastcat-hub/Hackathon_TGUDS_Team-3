@@ -108,13 +108,14 @@
 
 ## <a id="title1">Инструкция по использованию</a>
 **Инструкция по установке:**
-Клонируйте репозиторий: git clone https://github.com/Fastcat-hub/Hackathon_TGUDS_Team-3
-Перейдите в директорию проекта: Hackathon_TGUDS_Team-3
-Открыть Hakaton_Kom_3.ipynb в Jupyter Notebook или Google Collab
+Клонируйте репозиторий: git clone https://github.com/Fastcat-hub/Hackathon_TGUDS_Team-3 \
+Перейдите в директорию проекта: Hackathon_TGUDS_Team-3 \
+Открыть Hakaton_Kom_3.ipynb в Jupyter Notebook или Google Collab \
 Зависимости установятся автоматически при запуске ячеек ноутбука.
 
 ### 1. Подготовка к работе
-Убедитесь, что у вас установлен Python и все необходимые библиотеки. Если они отсутствуют, установите их командой:
+Убедитесь, что у вас установлен Python и все необходимые библиотеки. \
+Если они отсутствуют, установите их командой:
 `pip install pandas numpy scikit-learn matplotlib seaborn`
 
 Файл данных (**`city_day.csv`**) должен находиться в той же папке, что и ноутбук. При необходимости замените файл на свой, изменив путь в коде загрузки данных.
