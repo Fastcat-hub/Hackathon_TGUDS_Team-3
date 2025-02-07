@@ -32,7 +32,7 @@
 - **Date:** Дата измерения. \
 **Источник данных:**
   [Ссылка на модель](https://scikit-learn.org/0.16/modules/generated/sklearn.ensemble.RandomForestRegressor.html). \
-  [Ссылка на dataset]().
+  [Ссылка на dataset](https://t.me/c/2435139241/911).
   
   
 
