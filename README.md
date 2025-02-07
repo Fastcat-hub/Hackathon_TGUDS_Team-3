@@ -31,7 +31,7 @@
 - **City:** Название города.
 - **Date:** Дата измерения. 
 
-**Источник данных:** \
+**Источники данных:** \
   [Ссылка на модель](https://scikit-learn.org/0.16/modules/generated/sklearn.ensemble.RandomForestRegressor.html). \
   [Ссылка на dataset](https://www.kaggle.com/datasets/hirenvora/city-daycsv).
   
